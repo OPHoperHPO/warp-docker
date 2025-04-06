@@ -6,9 +6,6 @@
 
 Run official [Cloudflare WARP](https://1.1.1.1/) client in Docker.
 
-> [!NOTE]
-> Cannot guarantee that the [GOST](https://github.com/ginuerzh/gost) and WARP client contained in the image are the latest versions. If necessary, please [build your own image](#build).
-
 ## Usage
 
 ### Start the container
